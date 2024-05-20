@@ -2,7 +2,7 @@
   <h1>- Desafio: POO -</h1>
 </div>
 
-Este repositório, concebido com propósitos didáticos, representa um desafio de modelagem e diagramação, utilizando UML, para um componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet., criado em colaboração entre a [Digital Innovation One](https://www.dio.me/) e o Santander, como parte do Bootcamp Santander 2024 - Backend com Java.
+Este repositório, concebido com propósitos didáticos, representa um desafio de modelagem e diagramação, utilizando UML, para um componente iPhone, abrangendo suas funcionalidades como reprodutor musical, aparelho telefônico e navegador na internet, criado em colaboração entre a [Digital Innovation One](https://www.dio.me/) e o Santander, como parte do Bootcamp Santander 2024 - Backend com Java.
 
 ## Objetivo
 
@@ -21,7 +21,7 @@ Aprender e aplicar os fundamentos de Programação Orientada a Objetos (POO) e L
 
 ## Diagrama UML
 
-Para criar o diagrama UML foi utilizado a sintaxe [Mermaid](https://mermaid.js.org/), uma alternativa open-source e que é compatível com arquivos Markdown.
+O diagrama UML foi criado utilizando a sintaxe [Mermaid](https://mermaid.js.org/), uma alternativa open-source e que é compatível com arquivos Markdown.
 
 ```mermaid
 classDiagram
@@ -60,11 +60,11 @@ classDiagram
 Os dados são solicitados e inseridos através do terminal, onde o usuário receberá um menu indicando as opções a serem escolhidas e seus repectivos números. Por exemplo:
 
 * Programa:  
-  ---- Escolha o aplicativo ----  
-  1. Reprodutor musical  
-  2. Aparelho telefônico  
-  3. Navegador de internet  
-  4. Encerrar aparelho
+---- Escolha o aplicativo ----  
+1. Reprodutor musical  
+2. Aparelho telefônico  
+3. Navegador de internet  
+4. Encerrar aparelho
 * Usuário: 1 *(depois ENTER para o próximo passo)* 
 
 </br>
