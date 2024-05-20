@@ -1,8 +1,8 @@
-package iphone;
+package sistema.iphone;
 
-import iphone.aparelho.AparelhoTelefonico;
-import iphone.navegador.NavegadorInternet;
-import iphone.reprodutor.ReprodutorMusical;
+import sistema.iphone.aparelho.AparelhoTelefonico;
+import sistema.iphone.navegador.NavegadorInternet;
+import sistema.iphone.reprodutor.ReprodutorMusical;
 
 public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet{
 
